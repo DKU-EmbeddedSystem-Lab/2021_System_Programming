@@ -11,7 +11,7 @@
 허진 권영기 (6장)<br>
 
 ## LPI Index
-목차<br>
+[LPI 목차](https://man7.org/tlpi/download/TLPI-TOC-detailed.pdf)<br>
 1장 역사와 표준<br>
 2장 기본 개념<br>
 3장 시스템 프로그래밍 개념<br>
