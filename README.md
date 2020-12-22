@@ -3,6 +3,9 @@
 지도 교수님 : [최 종무 교수님](http://embedded.dankook.ac.kr/~choijm/), 유 시환 교수님<br>
 스터디 교재 : [Linux Programming Interface](https://man7.org/tlpi/)<br>
 
+## Q&A 
+질의 응답이나 의견 등은 깃허브 [Issues](https://github.com/Dankook-EmbeddedSystem-Lab/2021_System_Programming/issues)게시판을 활용하시면 됩니다.
+
 ## Team member
 이준석 이성준 최한윤 (2장)<br>
 김용호 김주영 (3장)<br>
