@@ -2,6 +2,10 @@
 2020년 시스템프로그래밍 과목 심화 스터디 <br>
 지도 교수님 : [최 종무 교수님](http://embedded.dankook.ac.kr/~choijm/), 유 시환 교수님<br>
 스터디 교재 : [Linux Programming Interface](https://man7.org/tlpi/)<br>
+<br>
+comment.<br>
+각 발표당 20분의 발표시간, 10분간 질의응답시간으로 구성됩니다.<br>
+추가적으로, ppt 마지막에는 간단한 Quiz를 준비해주시면 좋습니다.<br>
 
 ## Q&A 
 질의 응답이나 의견 등은 깃허브 [Issues](https://github.com/Dankook-EmbeddedSystem-Lab/2021_System_Programming/issues)게시판을 활용하시면 됩니다.
