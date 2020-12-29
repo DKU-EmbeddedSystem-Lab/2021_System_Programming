@@ -3,7 +3,6 @@
 지도 교수님 : [최 종무 교수님](http://embedded.dankook.ac.kr/~choijm/), 유 시환 교수님<br>
 스터디 교재 : [Linux Programming Interface](https://man7.org/tlpi/)<br>
 <br>
-comment.<br>
 각 발표당 20분의 발표시간, 10분간 질의응답시간으로 구성됩니다.<br>
 추가적으로, ppt 마지막에는 간단한 Quiz를 준비해주시면 좋습니다.<br>
 
