@@ -10,13 +10,96 @@
 질의 응답이나 의견 등은 깃허브 [Issues](https://github.com/Dankook-EmbeddedSystem-Lab/2021_System_Programming/issues)게시판을 활용하시면 됩니다.
 
 ## Team member
-이준석 이성준 최한윤 (2장)<br>
-김용호 김주영 (3장)<br>
-박경록 진창호 (4장)<br>
-김산 강정현 (5장)<br>
-허진 권영기 (6장)<br>
+1조. 이준석 이성준 최한윤 <br>
+2조. 김용호 김주영 <br>
+3조. 박경록 진창호 <br>
+4조. 김산 강정현 <br>
+5조. 허진 권영기 <br>
+
+## 추후 일정 
+2021/01/26(화) <br> 
+chap 14. File System (5조)<br>
+chap 20. Signals: Fundamental Concepts (4조)<br> 
+2021/02/02(화) <br>
+chap 21. Signals: Signal Handlers (1조)<br>
+chap 24. Process Creation (2조)<br>
+2021/02/09(화) <br>
+chap 27. Program Execution (3조)<br>
+chap 29. Threads: Introduction (4조)<br>
+2021/02/16(화) <br>
+chap 30. Threads: Thread Synchronization (5조)<br>
+chap 35. Process Priorities and Scheduling (1조)<br>
+2021/02/23(화) <br>
+chap 43. Interprocess Communication Overview (2조)<br>
+chap 44. Pipes and FIFOs (3조)<br> 
 
 ## LPI Index
+[LPI(영문) 목차] <br>
+1   History and Standards
+2   Fundamental Concepts
+3   System Programming Concepts
+4   File I/O: The Universal I/O Model
+5   File I/O: Further Details
+6   Processes
+7   Memory Allocation
+8   Users and Groups
+9   Process Credentials
+10   Times and Dates
+11   System Limits and Options
+12   Retrieving System and Process Information
+13   File I/O Buffering
+14   File Systems
+15   File Attributes
+16   Extended Attributes
+17   Access Control Lists
+18   Directories and Links
+19   Monitoring File Events with inotify
+20   Signals: Fundamental Concepts
+21   Signals: Signal Handlers
+22   Signals: Advanced Features
+23   Timers and Sleeping
+24   Process Creation
+25   Process Termination
+26   Monitoring Child Processes
+27   Program Execution
+28   Process Creation and Program Execution in More Detail
+29   Threads: Introduction
+30   Threads: Thread Synchronization
+31   Threads: Thread Safety and Per-thread Storage
+32   Threads: Thread Cancellation
+33   Threads: Further Details
+34   Process Groups, Sessions, and Job Control
+35   Process Priorities and Scheduling
+36   Process Resources
+37   Daemons
+38   Writing Secure Privileged Programs
+39   Capabilities
+40   Login Accounting
+41   Fundamentals of Shared Libraries
+42   Advanced Features of Shared Libraries
+43   Interprocess Communication Overview
+44   Pipes and FIFOs
+45   Introduction to System V IPC
+46   System V Message Queues
+47   System V Semaphores
+48   System V Shared Memory
+49   Memory Mappings
+50   Virtual Memory Operations
+51   Introduction to POSIX IPC
+52   POSIX Message Queues
+53   POSIX Semaphores
+54   POSIX Shared Memory
+55   File Locking
+56   Sockets: Introduction
+57   Sockets: Unix Domain
+58   Sockets: Fundamentals of TCP/IP Networks
+59   Sockets: Internet Domains
+60   Sockets: Server Design
+61   Sockets: Advanced Topics
+62   Terminals
+63   Alternative I/O Models
+64   Pseudoterminals
+
 [LPI 목차](https://man7.org/tlpi/download/TLPI-TOC-detailed.pdf)<br>
 1장 역사와 표준<br>
 2장 기본 개념<br>
