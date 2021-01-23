@@ -1,3 +1,8 @@
+## 매주 화요일 PM 1:30
+<b>https://zoom.us/j/97711207846?pwd=ZUFjUnh3OVBhN3dnczIxMjFzcDV0Zz09\<br>
+회의 ID: 977 1120 7846<br>
+암호: 227543<br></b>
+
 # 2021_System_Programming
 2020년 시스템프로그래밍 과목 심화 스터디 <br>
 지도 교수님 : [최 종무 교수님](http://embedded.dankook.ac.kr/~choijm/), 유 시환 교수님<br>
