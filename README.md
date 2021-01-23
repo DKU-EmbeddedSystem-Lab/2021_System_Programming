@@ -1,15 +1,15 @@
-## 매주 화요일 PM 1:30
-<b>https://zoom.us/j/97711207846?pwd=ZUFjUnh3OVBhN3dnczIxMjFzcDV0Zz09\<br>
-회의 ID: 977 1120 7846<br>
-암호: 227543<br></b>
-
-# 2021_System_Programming
+## 2021_System_Programming
 2020년 시스템프로그래밍 과목 심화 스터디 <br>
 지도 교수님 : [최 종무 교수님](http://embedded.dankook.ac.kr/~choijm/), 유 시환 교수님<br>
 스터디 교재 : [Linux Programming Interface](https://man7.org/tlpi/)<br>
 <br>
 각 발표당 20분의 발표시간, 10분간 질의응답시간으로 구성됩니다.<br>
 추가적으로, ppt 마지막에는 간단한 Quiz를 준비해주시면 좋습니다.<br>
+
+## 매주 화요일 PM 1:30
+<b>https://zoom.us/j/97711207846?pwd=ZUFjUnh3OVBhN3dnczIxMjFzcDV0Zz09\<br>
+회의 ID: 977 1120 7846<br>
+암호: 227543<br></b>
 
 ## Q&A 
 질의 응답이나 의견 등은 깃허브 [Issues](https://github.com/Dankook-EmbeddedSystem-Lab/2021_System_Programming/issues)게시판을 활용하시면 됩니다.
